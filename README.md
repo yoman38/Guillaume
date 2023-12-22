@@ -2,15 +2,15 @@
 
 
 
-# Bray Guillaume's CV
+# My CV
 
 ```python
 cv = {
     "name": "Bray Guillaume",
     "contact": {
         "email": "bgui.bray@gmail.com",
-        "location": "Lyon - France",
-        "age": 23
+        "location": "France",
+        "Brth date": 2001
     },
     "languages": {
         "English": "C1",
@@ -30,6 +30,14 @@ cv = {
                 "Concept, UX/UI, and workflow design",
                 "Content addition",
                 "Hired a developer"
+            ]
+        },
+        {
+            "name": "Pumped",
+            "details": [
+                "Concept, UX/UI, and workflow design",
+                "Content addition",
+                "Hired a developer to help me in python after writing myself 500+ line of code; and another one for iOS"
             ]
         },
         {
