@@ -2,6 +2,9 @@
 
 
 
+# Bray Guillaume's CV
+
+```python
 cv = {
     "name": "Bray Guillaume",
     "contact": {
@@ -20,26 +23,25 @@ cv = {
         "advanced": ["Revit", "VBA for Excel", "MS SQL Server", "Python"],
         "basics": ["Matlab", "Sketchup", "Inventor MEP", "Autocad"],
     },
-        "software_projects": [
-            {
-                "name": "Seed learning app",
-                "details": [
-                    "Concept, UX/UI, and workflow design",
-                    "Content addition",
-                    "Hired a developer"
-                ]
-            },
-            {
-                "name": "EasyAnswerGmail Extension",
-                "details": [
-                    "Developed an AI-based email automation tool in October 2022",
-                    "Capable of generating, responding to, and correcting emails"
-                ]
-            }
-        ]
-    },
-    }
+    "software_projects": [
+        {
+            "name": "Seed learning app",
+            "details": [
+                "Concept, UX/UI, and workflow design",
+                "Content addition",
+                "Hired a developer"
+            ]
+        },
+        {
+            "name": "EasyAnswerGmail Extension",
+            "details": [
+                "Developed an AI-based email automation tool in October 2022",
+                "Capable of generating, responding to, and correcting emails"
+            ]
+        }
+    ]
 }
+
 
 
 
