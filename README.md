@@ -14,11 +14,12 @@
         <img src="https://github.com/yoman38/Guillaume/blob/main/file-ywRkggFqhTuLaLktoKyYDuJ5.jpg" alt="Guillaume Working" width="300" height="300" style="display: block;"/>
       </td>
       <td style="vertical-align: middle; color: blue; font-weight: bold; font-size: larger; border: none;">
-        👋 Hi there, I'm Guillaume!!
+        <img src="https://github.com/yoman38/Guillaume/blob/main/gifname.gif" alt="GIF">
       </td>
     </tr>
   </table>
 </div>
+
 
 Hi, I'm [Bray Guillaume](https://your-portfolio-link.com/), an energy engineer from France, and I'm keenly pursuing a career related to computer science.
   <img align="right" alt="GIF" src="https://github.com/yoman38/Guillaume/blob/main/gif%20me%20working.gif" width="300" height="300" />
@@ -35,11 +36,36 @@ I'm also captivated by the world of open-source and its ethos of collective inte
 - 🌐 Visit my [GitHub](https://github.com/yoman38) to see my projects and contributions.
 - 💬 Feel free to ask me about Methods, Excel, thermal systems, etc. I'm here to help!
 
+### My apps
+<table border="0" style="border-collapse: collapse; border: none;">
+    <tr>
+        <td>
+            <img src="https://github.com/yoman38/Guillaume/assets/124726056/ba4f6229-2815-45a6-9513-4b90b4711846" alt="Fitness App Icon" width="100" height="100">
+        </td>
+        <td style="vertical-align: middle; margin-left: 20px;">
+            <p>Fitness app using vectors to generate training</p>
+        </td>
+    </tr>
+</table>
+
+<table border="0" style="border-collapse: collapse; border: none;">
+    <tr>
+        <td>
+            <img src="https://github.com/yoman38/Guillaume/assets/124726056/b60c5f8d-d8b3-4633-b52a-c3bc37440046" alt="Seed Icon" width="100" height="100">
+        </td>
+        <td style="vertical-align: middle; margin-left: 20px;">
+            <p>Learning app</p>
+        </td>
+    </tr>
+</table>
+
+
 
 #### Top Repositories
 [![YT2GPT-create-summary-from-youtube](https://github-readme-stats.vercel.app/api/pin/?username=yoman38&repo=YT2GPT-create-summary-from-youtube&theme=buefy)](https://github.com/yoman38/YT2GPT-create-summary-from-youtube)
 [![ExceltoSQL](https://github-readme-stats.vercel.app/api/pin/?username=yoman38&repo=ExceltoSQL&theme=buefy)](https://github.com/yoman38/ExceltoSQL)
 
+#### My stats
 | <a href="https://github.com/yoman38/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoman38&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Guillaume's github stats" /></a> | <a href="https://github.com/yoman38/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoman38&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
