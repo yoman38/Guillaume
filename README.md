@@ -1,5 +1,53 @@
 👋 Hi there, I'm Guillaume !
 
+
+
+cv = {
+    "name": "Bray Guillaume",
+    "contact": {
+        "email": "bgui.bray@gmail.com",
+        "location": "Lyon - France",
+        "age": 23
+    },
+    "languages": {
+        "English": "C1",
+        "Polish and Italian": "Currently ~A2",
+        "others": ["Learning Japanese", "Spanish"]
+    },
+    "software_skills": {
+        "excellent_mastery": ["Salesforce", "Excel", "PowerPoint", "Word", "OneNote"],
+        "very_advanced": ["MS Project"],
+        "advanced": ["Revit", "VBA for Excel", "MS SQL Server", "Python"],
+        "basics": ["Matlab", "Sketchup", "Inventor MEP", "Autocad"],
+    },
+        "software_projects": [
+            {
+                "name": "Seed learning app",
+                "details": [
+                    "Concept, UX/UI, and workflow design",
+                    "Content addition",
+                    "Hired a developer"
+                ]
+            },
+            {
+                "name": "EasyAnswerGmail Extension",
+                "details": [
+                    "Developed an AI-based email automation tool in October 2022",
+                    "Capable of generating, responding to, and correcting emails"
+                ]
+            }
+        ]
+    },
+    }
+}
+
+
+
+
+
+
+
+
 🌟 I'm a passionate engineer with a Master's degree in Energy and Fluids Engineering from France. My educational journey has been marked by a strong focus on project design.
 
 🔍 I'm learning some skills in data analysis, specifically in impact analysis and price prediction using ML models.
