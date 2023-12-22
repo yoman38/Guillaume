@@ -8,17 +8,16 @@
 
 
 <div style="text-align: center;">
-  <table border="0" style="border-collapse: collapse; border: none; display: inline-table;">
-    <tr>
-      <td style="width: 300px;">
-        <img src="https://github.com/yoman38/Guillaume/blob/main/file-ywRkggFqhTuLaLktoKyYDuJ5.jpg" alt="Guillaume Working" width="300" height="300" style="display: block;"/>
-      </td>
-      <td style="vertical-align: middle; color: blue; font-weight: bold; font-size: larger; border: none;">
-        <img src="https://github.com/yoman38/Guillaume/blob/main/gifname.gif" alt="GIF">
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; max-width: 22.5%; margin: 5px;">
+    <img src="https://github.com/yoman38/Guillaume/blob/main/file-ywRkggFqhTuLaLktoKyYDuJ5.jpg" alt="Guillaume Working" style="max-width: 100%; height: auto; display: block;">
+  </div>
+  <div style="display: inline-block; max-width: 22.5%; margin: 5px;">
+    <img src="https://github.com/yoman38/Guillaume/blob/main/gifname.gif" alt="GIF" style="max-width: 100%; height: auto;">
+  </div>
 </div>
+
+
+
 
 
 
