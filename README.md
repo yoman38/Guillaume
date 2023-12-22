@@ -1,5 +1,6 @@
 👋 Hi there, I'm Guillaume !
 
+![Uploading gif me working-min.gif…]()
 
 
 # About me
