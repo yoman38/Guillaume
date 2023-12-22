@@ -14,12 +14,11 @@
         <img src="https://github.com/yoman38/Guillaume/blob/main/file-ywRkggFqhTuLaLktoKyYDuJ5.jpg" alt="Guillaume Working" width="300" height="300" style="display: block;"/>
       </td>
       <td style="vertical-align: middle; color: blue; font-weight: bold; font-size: larger; border: none;">
-        👋 Hi there, I'm Guillaume!
+        👋 Hi there, I'm Guillaume!!
       </td>
     </tr>
   </table>
 </div>
-
 
 Hi, I'm [Bray Guillaume](https://your-portfolio-link.com/), an energy engineer from France, and I'm keenly pursuing a career related to computer science.
   <img align="right" alt="GIF" src="https://github.com/yoman38/Guillaume/blob/main/gif%20me%20working.gif" width="300" height="300" />
