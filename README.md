@@ -28,27 +28,16 @@ I'm also captivated by the world of open-source and its ethos of collective inte
 - 💬 Feel free to ask me about Methods, Excel, thermal systems, etc. I'm here to help!
 
 ### My apps
-<table border="0" style="border-collapse: collapse; border: none;">
-    <tr>
-        <td>
-            <img src="https://github.com/yoman38/Guillaume/assets/124726056/ba4f6229-2815-45a6-9513-4b90b4711846" alt="Fitness App Icon" width="100" height="100">
-        </td>
-        <td style="vertical-align: middle; margin-left: 20px;">
-            <p>Fitness app using vectors to generate training</p>
-        </td>
-    </tr>
-</table>
+<p align="left">
+    <img src="https://github.com/yoman38/Guillaume/assets/124726056/ba4f6229-2815-45a6-9513-4b90b4711846" alt="Fitness App Icon" width="100" height="100" style="display: inline-block; vertical-align: middle;" />
+    <span style="display: inline-block; vertical-align: middle; margin-left: 20px;">Fitness app using vectors to generate training</span>
+</p>
 
-<table border="0" style="border-collapse: collapse; border: none;">
-    <tr>
-        <td>
-            <img src="https://github.com/yoman38/Guillaume/assets/124726056/b60c5f8d-d8b3-4633-b52a-c3bc37440046" alt="Seed Icon" width="100" height="100">
-        </td>
-        <td style="vertical-align: middle; margin-left: 20px;">
-            <p>Learning app</p>
-        </td>
-    </tr>
-</table>
+<p align="left">
+    <img src="https://github.com/yoman38/Guillaume/assets/124726056/b60c5f8d-d8b3-4633-b52a-c3bc37440046" alt="Seed Icon" width="100" height="100" style="display: inline-block; vertical-align: middle;" />
+    <span style="display: inline-block; vertical-align: middle; margin-left: 20px;">Learning app</span>
+</p>
+
 
 
 
