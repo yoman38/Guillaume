@@ -7,19 +7,10 @@
 </a>
 
 
-<div style="text-align: center;">
-  <div style="display: inline-block; max-width: 22.5%; margin: 5px;">
-    <img src="https://github.com/yoman38/Guillaume/blob/main/file-ywRkggFqhTuLaLktoKyYDuJ5.jpg" alt="Guillaume Working" style="max-width: 100%; height: auto; display: block;">
-  </div>
-  <div style="display: inline-block; max-width: 22.5%; margin: 5px;">
-    <img src="https://github.com/yoman38/Guillaume/blob/main/gifname.gif" alt="GIF" style="max-width: 100%; height: auto;">
-  </div>
-</div>
-
-
-
-
-
+<p align="center">
+  <img src="https://github.com/yoman38/Guillaume/blob/main/file-ywRkggFqhTuLaLktoKyYDuJ5.jpg" alt="Guillaume Working" width="150" />&nbsp;&nbsp;
+  <img src="https://github.com/yoman38/Guillaume/blob/main/gifname.gif" alt="GIF" width="450" />
+</p>
 
 Hi, I'm [Bray Guillaume](https://your-portfolio-link.com/), an energy engineer from France, and I'm pursuing a career related to computer science.
   <img align="right" alt="GIF" src="https://github.com/yoman38/Guillaume/blob/main/gif%20me%20working.gif" width="300" height="300" />
