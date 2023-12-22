@@ -22,7 +22,7 @@
 
 
 
-Hi, I'm [Bray Guillaume](https://your-portfolio-link.com/), an energy engineer from France, and I'm keenly pursuing a career related to computer science.
+Hi, I'm [Bray Guillaume](https://your-portfolio-link.com/), an energy engineer from France, and I'm pursuing a career related to computer science.
   <img align="right" alt="GIF" src="https://github.com/yoman38/Guillaume/blob/main/gif%20me%20working.gif" width="300" height="300" />
 
 
