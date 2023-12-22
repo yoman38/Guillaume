@@ -10,7 +10,7 @@
 <div style="text-align: center;">
   <table border="0" style="border-collapse: collapse; border: none; display: inline-table;">
     <tr>
-      <td>
+      <td style="width: 300px;">
         <img src="https://github.com/yoman38/Guillaume/blob/main/file-ywRkggFqhTuLaLktoKyYDuJ5.jpg" alt="Guillaume Working" width="300" height="300" style="display: block;"/>
       </td>
       <td style="vertical-align: middle; color: blue; font-weight: bold; font-size: larger; border: none;">
@@ -19,6 +19,7 @@
     </tr>
   </table>
 </div>
+
 
 
 Hi, I'm [Bray Guillaume](https://your-portfolio-link.com/), an energy engineer from France, and I'm keenly pursuing a career related to computer science.
